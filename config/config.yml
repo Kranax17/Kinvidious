@@ -1,5 +1,5 @@
 db:
-  database_url: "postgres://invidious_db_ki0a_user:iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS@dpg-date2h7lot8c73f727vg-a/invidious_db_ki0a"
+  database_url: "postgresql://invidious_db_ki0a_user:iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS@dpg-date2h7lot8c73f727vg-a/invidious_db_ki0a"
 
 invidious_companion:
   - private_url: "https://invidious-latest-nni3.onrender.com:8282/companion"
