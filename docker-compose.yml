@@ -2,7 +2,7 @@
   invidious:
     image: quay.io/invidious/invidious:latest
     ports:
-      - "invidious-5kce.onrender.com:3000:3000"
+      - "3000:3000"
 
     environment:
       INVIDIOUS_CONFIG: |
