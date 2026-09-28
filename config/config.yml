@@ -8,11 +8,10 @@ db:
 
 check_tables: true
 domain: invidious-latest-nni3.onrender.com
-http_port: 3000
-external_port: 3000
+port: 3000
+external_port: 443
+https_only: true
 host_binding: 0.0.0.0
-https_only: false
-unencrypted_video_proxy: true
 captcha_enabled: false
 hmac_key: "2b91e7005c1e8ce4df8c246f2556da0a21e22e0b49ba21ded2d92bd28eb438ff"
 invidious_companion:
