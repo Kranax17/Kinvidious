@@ -1,7 +1,7 @@
 db:
   user: kemal
   password: kemalpassword
-  database_url: "postgres://kemal:kemalpassword@http://invidious-latest-nni3.onrender.com:8282/companion:5432/invidious-db"
+  database_url: "postgresql://invidious_db_ki0a_user:iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS@dpg-date2h7lot8c73f727vg-a/invidious_db_ki0a"
   host: db
   port: 5432
   dbname: invidious-db
