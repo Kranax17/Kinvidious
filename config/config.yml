@@ -4,6 +4,7 @@ db:
   db: invidious
   host: db
   port: 5432
+  dbname: invidious-db
 
 check_tables: true
 domain: invidious-latest-nni3.onrender.com
