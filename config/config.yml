@@ -14,7 +14,7 @@ host_binding: 0.0.0.0
 https_only: false
 unencrypted_video_proxy: true
 captcha_enabled: false
-hmac_key: "e1ba1904ba4549bdbb263b657fbfb14a313c00b7"
+hmac_key: "2b91e7005c1e8ce4df8c246f2556da0a21e22e0b49ba21ded2d92bd28eb438ff"
 invidious_companion:
   - private_url: "http://invidious-latest-nni3.onrender.com:8282/companion"
     invidious_companion_key: "c3c7c583e7d2466f"
