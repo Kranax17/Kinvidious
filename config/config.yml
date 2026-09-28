@@ -1,0 +1,22 @@
+db:
+  user: kemal
+  password: kemalpassword
+  db: invidious
+  host: db
+  port: 5432
+
+check_tables: true
+domain: invidious-5kce.onrender.com
+http_port: 3000
+external_port: 3000
+https_only: false
+unencrypted_video_proxy: true
+captcha_enabled: false
+
+default_user_preferences:
+  video_loop: false
+  autoplay: false
+  continue: false
+  listen: false
+  quality: "dash"
+  quality_dash: "240p"

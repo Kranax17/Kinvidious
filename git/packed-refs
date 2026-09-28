@@ -1,0 +1,69 @@
+# pack-refs with: peeled fully-peeled sorted 
+f07859e11b22781881a68b715cbd391bf6112b32 refs/remotes/origin/Release
+b0c9f87fbea9a527b1e96774de97dc366e76df12 refs/remotes/origin/SamantazFox-patch-1
+c736ee027fdcc1624a912b4ac8b7ef01de6c7b7a refs/remotes/origin/dependabot/nix/nix/nixpkgs-6774f7b
+17e8fd416d5f884f65fab76db79fb6ad9be7cb1f refs/remotes/origin/donotmerge
+63cb6db1a36353ace8adfb5ce6d5f68f9d681549 refs/remotes/origin/fijxu/84codes-builder
+cc643f209a95cbf9fcc7e97ae3587454b35c3bc5 refs/remotes/origin/fix-build-docker
+7b9a8e34562bbb6afeb1f682bf33df1be8ec0498 refs/remotes/origin/fix/playlist-cross-user-video-deletion
+209f27bb32a3a8878669762d1dcbf1b8d5f3d171 refs/remotes/origin/http-proxy-better-comments
+47ce8a726b0bb4196c211a3f22eb9a7721d8e6ab refs/remotes/origin/limit-feeds-materialized-views
+c88230067b7a3abbb569ac0938bf8d897c8340be refs/remotes/origin/master
+6ff616d9a478c63e1813357e0115bcd697e9a164 refs/remotes/origin/refactor-connection-pool
+f3540d7e7ff2ed9ae4f1946bb3c1bf742067b6aa refs/remotes/origin/release-v2.20260207.0
+eb93ddc66b3e2ffaaf9a4263dea3a6d7f43517d3 refs/remotes/origin/release-v2.20260723.0
+2c2a8ba1a45420c6957c14155ac00d0d4206262d refs/remotes/origin/release-v2.20260804.0
+9446cbfd1ecb0220cc268e23e0c9b57c06496b21 refs/remotes/origin/release-v2.20260804.1
+4daf1f081828dd9137e58bf7a2cc79872f7afa6f refs/remotes/origin/tvsimply-client
+381074fce1f3e405d8c527a672f524c4700aead5 refs/remotes/origin/use-arm64-runner
+3cdaceccd0088aaafb68e26c73c4c84d0732ef68 refs/tags/0.1.0
+57d88ffcc8e68aa3f057a37b94bbe5cef6c895cf refs/tags/0.10.0
+81ea2bf799742a2b93de3d75cc132c1290015e63 refs/tags/0.11.0
+89439e1775039eb823ddc4a9acf01a996a05cc80 refs/tags/0.12.0
+a16f967085415d7ddc2173be012fee783b4da6d9 refs/tags/0.13.0
+138a6b11362257efc770f3d533c894ecf46802b3 refs/tags/0.13.1
+699f85e773c7e69ac081c2361be3de89541accf5 refs/tags/0.14.0
+09d0972ab45227be66e3e3a29934c3378dc6dc1f refs/tags/0.14.1
+a65998274fffd1334cf4d3d0f79a58e78b1b450e refs/tags/0.15.0
+8d5f9418297ac8b43540c571b466da82dd9fac0f refs/tags/0.16.0
+5e2889e776ca76263d0cad8fcf67d32d16e2317e refs/tags/0.17.0
+89725df3dc7e285adc5d3a80956f22265a858f6c refs/tags/0.18.0
+9e2a65a5ced2d2b79f4c3d01092013df1c1eb511 refs/tags/0.19.0
+ff5d79e3ee1d295e97e589e39ca09bd0a880c99f refs/tags/0.19.1
+76d3abb5f90dc513e30c996f0d11ba0f8c963bb8 refs/tags/0.2.0
+e56129111a5d182ddfcc75935c1222cc11e46234 refs/tags/0.20.0
+05988c1c49851b7d0094fca16aeaf6382a7f64ab refs/tags/0.20.1
+45fa14838059d72e8a6eb2820a7bb6390a64055d refs/tags/0.3.0
+044a57ef344dc60f0511cbda080d4166f2a4220f refs/tags/0.4.0
+89bda1d3db9ff87799d1bf0a32cf8edbfd362b41 refs/tags/0.5.0
+35bee987f60a12d3c246789e79c6012756577034 refs/tags/0.6.0
+e122d68accebc448e08f02e4f9cc6872214c05e0 refs/tags/0.7.0
+f8eb5ab4162a90b1bf4d3245d664c29dc80099f8 refs/tags/0.8.0
+022427e20e5db73063f668ac78fad8987d3c94fb refs/tags/0.9.0
+b98152928c5e067cfe1e7430ed0149a0c4ac3e34 refs/tags/v2.20240427
+^eda7444ca46dbc3941205316baba8030fe0b2989
+3da53bc48498ad57ad6289763eecadf13cb38bba refs/tags/v2.20240825
+^ffc70a5298bb4f954b2a8c607280d87882b7d6c7
+e75636b999abeef423b844c9775eaaaa6be926b0 refs/tags/v2.20240825.1
+^3e17d04875570448edf42641175d297ec2ba2aa1
+049694b7b4e32db2f1657b7776f11dbd1c88108d refs/tags/v2.20240825.2
+^4782a6703819e0babfa4792892b691dd096eeac3
+4e0ca538d9935fc962a1de97ca7c3781201ad4e5 refs/tags/v2.20241110.0
+^5d2dd40bc3e043caac7d85e7ddee3d2c5d40ccbb
+e23d0d13be85c84c53dcdb7dae1566e2a6285d49 refs/tags/v2.20250314.0
+5212f29c1683acbac754dfab8d9003ccf0e950e5 refs/tags/v2.20250504.0
+^aa7de1ed4c28d1db28129055b2373ef6145a5f3d
+1f4984fc43206e2e0f46f4ac6ff9785715fc355d refs/tags/v2.20250517.0
+^f07859e11b22781881a68b715cbd391bf6112b32
+b31f66f35107cf1e45e7aeb1a3d1695d2e6472c8 refs/tags/v2.20250913.0
+^cf019e3b45fea1c8cacfd05637e1db0874751b5f
+83173c30b4fd7ce799c41565d3589bc92fee19bf refs/tags/v2.20260207.0
+^118d635650f07b20ac6404afff30da99ef4e4c49
+b93decdb529ecc57b9e51391dff3bcc76c77c666 refs/tags/v2.20260626.0
+^ad0bd9289f8e4f02c40afefbcd015ce4e077ad3f
+0aa83061a278a7b5b999202d58a7522cc2a70b6b refs/tags/v2.20260723.0
+^5953859e293e28d4a8c78bcea55e9e58269e9e44
+fb45ea6029641b492c815e7dfac49bbf3cb9facb refs/tags/v2.20260804.0
+^1d1f404b9ac9b10551f75718dc71cdefe571b929
+1b6a44752f9ce23c0cee5e2ec75977aae544fc0d refs/tags/v2.20260804.1
+^48c6110a83fc788b4199daf737279b71950cc0db

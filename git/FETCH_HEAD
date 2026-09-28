@@ -1,0 +1,17 @@
+f07859e11b22781881a68b715cbd391bf6112b32	not-for-merge	branch 'Release' of https://github.com/iv-org/invidious
+b0c9f87fbea9a527b1e96774de97dc366e76df12	not-for-merge	branch 'SamantazFox-patch-1' of https://github.com/iv-org/invidious
+c736ee027fdcc1624a912b4ac8b7ef01de6c7b7a	not-for-merge	branch 'dependabot/nix/nix/nixpkgs-6774f7b' of https://github.com/iv-org/invidious
+17e8fd416d5f884f65fab76db79fb6ad9be7cb1f	not-for-merge	branch 'donotmerge' of https://github.com/iv-org/invidious
+63cb6db1a36353ace8adfb5ce6d5f68f9d681549	not-for-merge	branch 'fijxu/84codes-builder' of https://github.com/iv-org/invidious
+cc643f209a95cbf9fcc7e97ae3587454b35c3bc5	not-for-merge	branch 'fix-build-docker' of https://github.com/iv-org/invidious
+7b9a8e34562bbb6afeb1f682bf33df1be8ec0498	not-for-merge	branch 'fix/playlist-cross-user-video-deletion' of https://github.com/iv-org/invidious
+209f27bb32a3a8878669762d1dcbf1b8d5f3d171	not-for-merge	branch 'http-proxy-better-comments' of https://github.com/iv-org/invidious
+47ce8a726b0bb4196c211a3f22eb9a7721d8e6ab	not-for-merge	branch 'limit-feeds-materialized-views' of https://github.com/iv-org/invidious
+c88230067b7a3abbb569ac0938bf8d897c8340be	not-for-merge	branch 'master' of https://github.com/iv-org/invidious
+6ff616d9a478c63e1813357e0115bcd697e9a164	not-for-merge	branch 'refactor-connection-pool' of https://github.com/iv-org/invidious
+f3540d7e7ff2ed9ae4f1946bb3c1bf742067b6aa	not-for-merge	branch 'release-v2.20260207.0' of https://github.com/iv-org/invidious
+eb93ddc66b3e2ffaaf9a4263dea3a6d7f43517d3	not-for-merge	branch 'release-v2.20260723.0' of https://github.com/iv-org/invidious
+2c2a8ba1a45420c6957c14155ac00d0d4206262d	not-for-merge	branch 'release-v2.20260804.0' of https://github.com/iv-org/invidious
+9446cbfd1ecb0220cc268e23e0c9b57c06496b21	not-for-merge	branch 'release-v2.20260804.1' of https://github.com/iv-org/invidious
+4daf1f081828dd9137e58bf7a2cc79872f7afa6f	not-for-merge	branch 'tvsimply-client' of https://github.com/iv-org/invidious
+381074fce1f3e405d8c527a672f524c4700aead5	not-for-merge	branch 'use-arm64-runner' of https://github.com/iv-org/invidious
