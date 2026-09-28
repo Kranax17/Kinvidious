@@ -1,6 +1,6 @@
 db:
-  user: kemal
-  password: kemalpassword
+  user: invidious_db_ki0a_user
+  password: iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS
   database_url: "postgresql://invidious_db_ki0a_user:iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS@dpg-date2h7lot8c73f727vg-a/invidious_db_ki0a"
   host: db
   port: 5432
