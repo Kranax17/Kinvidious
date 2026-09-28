@@ -2,7 +2,7 @@ db:
   database_url: "postgresql://invidious_db_ki0a_user:iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS@dpg-date2h7lot8c73f727vg-a/invidious_db_ki0a"
 
 invidious_companion:
-  - private_url: "https://invidious-companion-latest-h553.onrender.com:8282/companion"
+  - private_url: "https://invidious-latest-nni3.onrender.com:8282/companion"
 invidious_companion_key: "ea3e29cf111bcf1d"
 
 check_tables: true
