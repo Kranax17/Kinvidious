@@ -24,7 +24,7 @@
   companion:
     image: quay.io/invidious/invidious-companion:latest
     environment:
-      SERVER_SECRET_KEY: "6a95e363889e47c2"
+      SERVER_SECRET_KEY: "c3c7c583e7d2466f"
 
   invidious-db:
     image: docker.io/library/postgres:14
