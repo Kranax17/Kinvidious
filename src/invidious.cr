@@ -91,9 +91,9 @@ end
 HOST_URL           = make_host_url(Kemal.config)
 MAX_ITEMS_PER_PAGE = 1500
 
-CURRENT_BRANCH  = {{ "#{`git branch | sed -n '/* /s///p'`.strip}" }}
-CURRENT_COMMIT  = {{ "#{`git rev-list HEAD --max-count=1 --abbrev-commit`.strip}" }}
-CURRENT_VERSION = {{ "#{`git log -1 --format=%ci | awk '{print $1}' | sed s/-/./g`.strip}" }}
+CURRENT_BRANCH  = "main"
+CURRENT_COMMIT  = "custom"
+CURRENT_VERSION = "2026.09.28"
 CURRENT_TAG     = {{ "#{`git tag --points-at HEAD`.strip}" }}
 
 # This is used to determine the `?v=` on the end of file URLs (for cache busting). We
