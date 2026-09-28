@@ -1,10 +1,9 @@
 db:
-  user: invidious_db_ki0a_user
-  password: iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS
   database_url: "postgresql://invidious_db_ki0a_user:iYMimzuBxSjGbMsSfVUx0Qr5SWqUHAWS@dpg-date2h7lot8c73f727vg-a/invidious_db_ki0a"
-  host: db
-  port: 5432
-  dbname: invidious-db
+
+invidious_companion:
+  - private_url: "http://invidious-latest-nni3.onrender.com:8282/companion"
+    invidious_companion_key: "d0addeadda05179c"
 
 check_tables: true
 domain: invidious-latest-nni3.onrender.com
@@ -14,9 +13,6 @@ https_only: true
 host_binding: 0.0.0.0
 captcha_enabled: false
 hmac_key: "2b91e7005c1e8ce4df8c246f2556da0a21e22e0b49ba21ded2d92bd28eb438ff"
-invidious_companion:
-  - private_url: "http://invidious-latest-nni3.onrender.com:8282/companion"
-    invidious_companion_key: "d0addeadda05179c"
 
 default_user_preferences:
   video_loop: false
